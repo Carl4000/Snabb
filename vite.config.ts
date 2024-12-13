@@ -1,5 +1,5 @@
-import { defineConfig } from 'vite';
+import { defineConfig } from "vite";
 
 export default defineConfig({
-  'base': '/SNABB/' // TODO: Ändra till ert reponamn här
+  base: "/SNABB/", // TODO: Ändra till ert reponamn här
 });
